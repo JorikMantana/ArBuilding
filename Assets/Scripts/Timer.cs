@@ -13,10 +13,6 @@ public class Timer : MonoBehaviour
         isTimerActive = false;
     }
     
-    
-    
-    
-    
     private void FixedUpdate()
     {
         if(isTimerActive == true)
