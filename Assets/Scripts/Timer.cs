@@ -14,6 +14,9 @@ public class Timer : MonoBehaviour
     }
     
     
+    //
+    
+    
     private void FixedUpdate()
     {
         if(isTimerActive == true)
