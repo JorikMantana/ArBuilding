@@ -12,10 +12,6 @@ public class Timer : MonoBehaviour
     {
         isTimerActive = false;
     }
-
-    
-    
-    // TO DO 
     
     
     private void FixedUpdate()
